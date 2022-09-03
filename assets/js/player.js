@@ -100,7 +100,7 @@ window.addEventListener("message", async e => {
         } : {}
       ],
 	  "abouttext": "Ayuda sobre CR Premium",
-	  "aboutlink": "https://discord.gg/S96aG7YVbS",
+	  "aboutlink": "https://t.me/+N8e4HgKCPqQ2NWIx",
 	  logo: {
       "file": "assets/icon/logo.png",
       "link": "https://paypal.me/anigo19",
